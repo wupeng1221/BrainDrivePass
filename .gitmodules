@@ -1,0 +1,6 @@
+[submodule "braindrivepass-backend-springcloud"]
+	path = braindrivepass-backend-springcloud
+	url = https://github.com/wupeng1221/braindrivepass-backend-springcloud.git
+[submodule "braindrivepass-frontend-el"]
+	path = braindrivepass-frontend-el
+	url = https://github.com/wupeng1221/braindrivepass-frontend-el.git
